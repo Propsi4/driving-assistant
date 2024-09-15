@@ -1,0 +1,11 @@
+/.venv
+
+/runs
+
+/src/train_obj_detection
+
+**/__pycache__/
+
+**.db
+**.pt
+**.zip
